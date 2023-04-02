@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.294.0",
+    "@aws-sdk/credential-providers": "^3.294.0",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
